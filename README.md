@@ -1,5 +1,9 @@
 # Object Detection with NN, CNN, and VGG16 on CIFAR-10
 
+## Video
+View this video to see how some of the model works and me explaining some of the code:
+https://www.youtube.com/watch?v=-BcYnm-Y7NE&t=1s
+
 ## Project Overview
 
 This project implements an object detection model using Neural Networks (NN), Convolutional Neural Networks (CNNs), and the VGG16 architecture, trained on the CIFAR-10 dataset. It includes a simple perceptron model and a more advanced VGG16 transfer learning model to distinguish between different objects in images. A sliding window technique is used to detect objects within a larger image.
@@ -25,7 +29,7 @@ Before running this project, ensure that you have the following:
 ## Installation
 
 1. Clone this repository to your local machine using:
-git clone [https://github.com/CodCodingCode/Object-Detection-with-NN-CNN-VGG16.git
+git clone https://github.com/CodCodingCode/Object-Detection-with-NN-CNN-VGG16.git
 
 2. Navigate to the cloned directory:
 cd Object-Detection-with-NN-CNN-VGG16
